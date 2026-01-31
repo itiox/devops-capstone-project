@@ -1,3 +1,8 @@
+---
+name: User story template
+about: This template provides a basic structure for user story issues.
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
